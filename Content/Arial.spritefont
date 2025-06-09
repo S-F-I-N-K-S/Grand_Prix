@@ -1,0 +1,21 @@
+﻿<!-- Arial.spritefont -->
+<XnaContent xmlns:Graphics="Microsoft.Xna.Framework.Content.Pipeline.Graphics">
+    <Asset Type="Graphics:FontDescription">
+        <FontName>Arial</FontName>
+        <Size>24</Size>
+        <Spacing>0</Spacing>
+        <UseKerning>true</UseKerning>
+        <Style>Regular</Style>
+        <CharacterRegions>
+        <CharacterRegion>
+            <Start> </Start>  <!-- Пробел -->
+            <End>~</End>      <!-- Тильда (покрывает все символы от пробела до ~) -->
+        </CharacterRegion>
+        <!-- Для кириллицы -->
+        <CharacterRegion>
+            <Start>А</Start>
+            <End>я</End>
+        </CharacterRegion>
+    </CharacterRegions>
+    </Asset>
+</XnaContent>

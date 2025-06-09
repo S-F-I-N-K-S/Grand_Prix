@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/nikmo/project/Race2/Grand_Prix/Content/Arial.spritefont</File>
+    <File>C:/Users/nikmo/project/Race2/Grand_Prix/Content/image/back_button.png</File>
+    <File>C:/Users/nikmo/project/Race2/Grand_Prix/Content/image/back_hover_button.png</File>
+    <File>C:/Users/nikmo/project/Race2/Grand_Prix/Content/image/background.png</File>
+    <File>C:/Users/nikmo/project/Race2/Grand_Prix/Content/image/car1_button.png</File>
+    <File>C:/Users/nikmo/project/Race2/Grand_Prix/Content/image/car1_hover_button.png</File>
+    <File>C:/Users/nikmo/project/Race2/Grand_Prix/Content/image/car1.png</File>
+    <File>C:/Users/nikmo/project/Race2/Grand_Prix/Content/image/car2_button.png</File>
+    <File>C:/Users/nikmo/project/Race2/Grand_Prix/Content/image/car2_hover_button.png</File>
+    <File>C:/Users/nikmo/project/Race2/Grand_Prix/Content/image/car2.png</File>
+    <File>C:/Users/nikmo/project/Race2/Grand_Prix/Content/image/educ_button.png</File>
+    <File>C:/Users/nikmo/project/Race2/Grand_Prix/Content/image/educ_hover_button.png</File>
+    <File>C:/Users/nikmo/project/Race2/Grand_Prix/Content/image/exit_button.png</File>
+    <File>C:/Users/nikmo/project/Race2/Grand_Prix/Content/image/exit_hover_button.png</File>
+    <File>C:/Users/nikmo/project/Race2/Grand_Prix/Content/image/finish.png</File>
+    <File>C:/Users/nikmo/project/Race2/Grand_Prix/Content/image/level1_button.png</File>
+    <File>C:/Users/nikmo/project/Race2/Grand_Prix/Content/image/level1_hover_button.png</File>
+    <File>C:/Users/nikmo/project/Race2/Grand_Prix/Content/image/level2_button.png</File>
+    <File>C:/Users/nikmo/project/Race2/Grand_Prix/Content/image/level2_hover_button.png</File>
+    <File>C:/Users/nikmo/project/Race2/Grand_Prix/Content/image/level3_button.png</File>
+    <File>C:/Users/nikmo/project/Race2/Grand_Prix/Content/image/level3_hover_button.png</File>
+    <File>C:/Users/nikmo/project/Race2/Grand_Prix/Content/image/road.png</File>
+    <File>C:/Users/nikmo/project/Race2/Grand_Prix/Content/image/start_button.png</File>
+    <File>C:/Users/nikmo/project/Race2/Grand_Prix/Content/image/start_hover_button.png</File>
+    <File>C:/Users/nikmo/project/Race2/Grand_Prix/Content/image/wall_d.png</File>
+    <File>C:/Users/nikmo/project/Race2/Grand_Prix/Content/image/wall_dl.png</File>
+    <File>C:/Users/nikmo/project/Race2/Grand_Prix/Content/image/wall_dla.png</File>
+    <File>C:/Users/nikmo/project/Race2/Grand_Prix/Content/image/wall_dr.png</File>
+    <File>C:/Users/nikmo/project/Race2/Grand_Prix/Content/image/wall_dra.png</File>
+    <File>C:/Users/nikmo/project/Race2/Grand_Prix/Content/image/wall_du.png</File>
+    <File>C:/Users/nikmo/project/Race2/Grand_Prix/Content/image/wall_l.png</File>
+    <File>C:/Users/nikmo/project/Race2/Grand_Prix/Content/image/wall_o.png</File>
+    <File>C:/Users/nikmo/project/Race2/Grand_Prix/Content/image/wall_o1.png</File>
+    <File>C:/Users/nikmo/project/Race2/Grand_Prix/Content/image/wall_o2.png</File>
+    <File>C:/Users/nikmo/project/Race2/Grand_Prix/Content/image/wall_o3.png</File>
+    <File>C:/Users/nikmo/project/Race2/Grand_Prix/Content/image/wall_o4.png</File>
+    <File>C:/Users/nikmo/project/Race2/Grand_Prix/Content/image/wall_o5.png</File>
+    <File>C:/Users/nikmo/project/Race2/Grand_Prix/Content/image/wall_o6.png</File>
+    <File>C:/Users/nikmo/project/Race2/Grand_Prix/Content/image/wall_o7.png</File>
+    <File>C:/Users/nikmo/project/Race2/Grand_Prix/Content/image/wall_r.png</File>
+    <File>C:/Users/nikmo/project/Race2/Grand_Prix/Content/image/wall_u.png</File>
+    <File>C:/Users/nikmo/project/Race2/Grand_Prix/Content/image/wall_ul.png</File>
+    <File>C:/Users/nikmo/project/Race2/Grand_Prix/Content/image/wall_ula.png</File>
+    <File>C:/Users/nikmo/project/Race2/Grand_Prix/Content/image/wall_ur.png</File>
+    <File>C:/Users/nikmo/project/Race2/Grand_Prix/Content/image/wall_ura.png</File>
+    <File>C:/Users/nikmo/project/Race2/Grand_Prix/Content/sound/click.mp3</File>
+    <File>C:/Users/nikmo/project/Race2/Grand_Prix/Content/sound/f1.mp3</File>
+    <File>C:/Users/nikmo/project/Race2/Grand_Prix/Content/sound/idling.mp3</File>
+    <File>C:/Users/nikmo/project/Race2/Grand_Prix/Content/sound/v10.mp3</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
